@@ -1,6 +1,6 @@
 # Profit-Aware AI Framework for Credit Card Fraud Detection
 
-> **Thesis Project — New Giza University (NGU), 2025**  
+> **Thesis Project — New Giza University (NGU), 2026**  
 > A hybrid Machine Learning + Reinforcement Learning system that makes financially-optimal fraud decisions by dynamically adapting to transaction amount, reviewer capacity, and business cost structure.
 
 ---
