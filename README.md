@@ -268,11 +268,15 @@ $$PG = \frac{\$_{model} - \$_{no\ fraud}}{\$_{oracle} - \$_{no\ fraud}}$$
 
 | Name | Role |
 |---|---|
-| [Your Name] | RL agent design, cost function, PPO training, amount-aware policy |
-| [Teammate 1] | [Their contribution] |
-| [Teammate 2] | [Their contribution] |
+| [Mohamed Walid] | RL design, cost function formulation, PPO training, amount-aware policy |
+| [Mohamed Osama] | Data processing, Autoencoder training, Capacity Layer implementation|
+| [Ammar Ahmed] | KDE training |
+| [Aly Osman] | Random Forest Training | 
+| [Jana Sameh] | CNN Training, Dashboard Design and implementation | 
+| [Abdulrahman Amr] LOF Training, Dashboard Design |
 
-**Supervisor:** [Professor Name] — [Department], New Giza University
+
+**Supervisor:** [Dr.Mariam Nabil] — Assistant Professor, New Giza University
 
 ---
 
@@ -283,8 +287,8 @@ If you use this work, please cite:
 ```bibtex
 @thesis{yourname2025fraud,
   title     = {Profit-Aware AI Framework for Credit Card Fraud Detection},
-  author    = {Your Name and Teammate 1 and Teammate 2},
-  year      = {2025},
+  author    = {Mohammad Ossama, Ammar Ahmed, Aly Osman, Abdulrahman Amr, Jana Sameh, Mohamed Walid},
+  year      = {2026},
   school    = {New Giza University},
   type      = {Bachelor's Thesis}
 }
