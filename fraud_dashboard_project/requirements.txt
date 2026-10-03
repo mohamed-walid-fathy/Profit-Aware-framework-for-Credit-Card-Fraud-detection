@@ -1,0 +1,6 @@
+# Dashboard (consumer)
+streamlit>=1.30
+plotly>=5.18
+# Shared core + export (producer) and the dashboard data layer
+pandas>=1.5
+numpy>=1.23
